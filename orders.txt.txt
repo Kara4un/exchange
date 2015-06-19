@@ -1,0 +1,98 @@
+sell lim 27.18 300
+buy mkt 400
+sell mkt 100
+buy mkt 400
+buy lim 27.6 700
+sell lim 27.8 400
+sell stop mkt 27.61 100
+buy lim 27.5 300
+sell mkt 700
+buy lim 27.99 100
+byu lim 27.75 200
+sell mkt 200
+buy lim 27.6 200
+buy lim 27.3 400
+sell mkt 800
+byu lim 27.4 200
+byu lim 27.75 300
+sell mkt 500
+sell lim 27.6 300
+buy lim 27.5 100
+buy mkt 300
+sell lim 27.01 100
+buy lim 28.00 300
+buy lim 27.75 200
+sell lim 27.20 400
+buy lim 28.00 400
+sell mkt 100
+buy lim 27.2 400
+sell lim 27.8 200
+buy mkt 200
+sell lim 27.20 400
+buy mkt 2000
+sell mkt 2000
+buy lim 27.8 200
+sell lim 27.20 400
+buy mkt 200
+sel lim 27.00 300
+buy lim 27.25 400
+buy lim 27.10 300
+sell mkt 700
+sell lim 27.20 400
+buy mkt 1000
+sell mkt 300
+buy lim 27.8 200
+sell lim 27.80 400
+buy mkt 200
+sell lim 27.75 400
+buy mkt 800
+buy 27.90 400
+sell lim 27.2 800
+buy mkt 500
+sell mkt 100
+buy lim 27.8 300
+sell lim 27.4 700
+buy lim 27.6 500
+sell lim 27.8 200
+sell mkt 100
+buy lim 27.2 200
+buy lim 27.9 200
+sell mkt 200
+sell mkt 100
+buy mkt 100
+buy lim 27.8 200
+buy lim 27.2 400
+sell mkt 600
+sell lim 27.8 400
+buy lim 27.2 300
+sell lim 27.4 400
+sell lim 27.60 500
+buy mkt 900
+buy mkt 400
+sell mkt 300
+sell lim 27.00 200
+buy mkt 100
+sell lim 27.8 300
+buy mkt 300
+sel lim 27.4 200
+sell lim 27.6 400
+buy lim 27.2 300
+sell mkt 300
+buy mkt 600
+sell mkt 5200
+buy mkt 300
+buy lim 27.8 2500
+sell lim 27.8 300
+buy mkt 100
+buy mkt 100
+sell lim 500
+sel lim 27.6 2000
+buy lim 27.4 500
+buy mkt 200
+sel mkt 100
+sell lim 27.6 2000
+buy mkt 200
+buy mkt 400
+sell mkt 100
+sell lim 27.00 300
+buy lim 28.00 1500
