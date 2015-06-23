@@ -5,7 +5,7 @@ sell lim 300 27.18 false
 sell lim 4 27.8 false
 sell lim 700 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 3 27.2 false
 buy lim 600 27.0 false
 Ready to add: buy mkt 400 0.0 false
@@ -22,7 +22,7 @@ sell lim 297 27.18 false
 sell lim 4 27.8 false
 sell lim 700 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 600 27.0 false
 buy mkt 400 0.0 false
 Ready to add: sell mkt 100 0.0 false
@@ -44,7 +44,7 @@ Asks from cheap to expensive:
 sell mkt 100 0.0 false
 sell lim 601 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 600 27.0 false
 Ready to add: buy mkt 400 0.0 false
 
@@ -58,7 +58,7 @@ Turn 3
 Asks from cheap to expensive:
 sell lim 601 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 500 27.0 false
 buy mkt 400 0.0 false
 Ready to add: buy lim 700 27.6 false
@@ -73,7 +73,7 @@ Turn 4
 Asks from cheap to expensive:
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 700 27.6 false
 buy lim 500 27.0 false
 Ready to add: sell lim 400 27.8 false
@@ -86,7 +86,7 @@ Asks from cheap to expensive:
 sell lim 400 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 700 27.6 false
 buy lim 500 27.0 false
 Ready to add: sell mkt 100 27.61 true
@@ -100,7 +100,7 @@ sell mkt 100 27.61 true
 sell lim 400 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 700 27.6 false
 buy lim 500 27.0 false
 Ready to add: buy lim 300 27.5 false
@@ -114,7 +114,7 @@ sell mkt 100 27.61 true
 sell lim 400 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 700 27.6 false
 buy lim 300 27.5 false
 buy lim 500 27.0 false
@@ -130,7 +130,7 @@ sell mkt 100 27.61 true
 sell lim 400 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 700 27.6 false
 buy lim 300 27.5 false
 buy lim 500 27.0 false
@@ -148,7 +148,7 @@ sell mkt 100 27.61 true
 sell lim 400 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 100 27.99 false
 buy lim 300 27.5 false
 buy lim 500 27.0 false
@@ -169,7 +169,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.5 false
 buy lim 500 27.0 false
 Ready to add: sell mkt 200 0.0 false
@@ -184,7 +184,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.5 false
 buy lim 500 27.0 false
 Ready to add: buy lim 200 27.6 false
@@ -201,7 +201,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.6 false
 buy lim 500 27.0 false
 Ready to add: buy lim 400 27.3 false
@@ -215,7 +215,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.6 false
 buy lim 400 27.3 false
 buy lim 500 27.0 false
@@ -231,7 +231,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.6 false
 buy lim 400 27.3 false
 buy lim 500 27.0 false
@@ -256,7 +256,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.0 false
 Ready to add: sell lim 300 27.75 false
 
@@ -271,7 +271,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.0 false
 Ready to add: sell mkt 500 0.0 false
 
@@ -287,7 +287,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.0 false
 Ready to add: sell lim 300 27.6 false
 
@@ -306,7 +306,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 100 27.5 false
 
 
@@ -321,7 +321,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 100 27.5 false
 Ready to add: buy mkt 300 0.0 false
 
@@ -340,7 +340,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 300 0.0 false
 Ready to add: sell lim 100 27.01 false
 
@@ -362,7 +362,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 300 28.0 false
 
 
@@ -377,7 +377,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 28.0 false
 Ready to add: buy lim 200 27.75 false
 
@@ -400,7 +400,7 @@ sell lim 300 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.75 false
 Ready to add: sell lim 400 27.2 false
 
@@ -420,7 +420,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 400 28.0 false
 
 
@@ -433,7 +433,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 28.0 false
 Ready to add: sell mkt 100 0.0 false
 
@@ -450,7 +450,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 400 27.2 false
 
 
@@ -462,7 +462,7 @@ sell lim 200 27.75 false
 sell lim 300 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.2 false
 Ready to add: sell lim 200 27.8 false
 
@@ -476,7 +476,7 @@ sell lim 300 27.8 false
 sell lim 200 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.2 false
 Ready to add: buy mkt 200 0.0 false
 
@@ -490,7 +490,7 @@ sell lim 300 27.8 false
 sell lim 200 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.2 false
 buy mkt 200 0.0 false
 Ready to add: sell lim 400 27.2 false
@@ -508,7 +508,7 @@ sell lim 300 27.8 false
 sell lim 200 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.2 false
 Ready to add: buy mkt 2000 0.0 false
 
@@ -524,7 +524,7 @@ sell lim 300 27.8 false
 sell lim 200 27.8 false
 sell lim 201 28.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 2000 0.0 false
 Ready to add: sell mkt 2000 0.0 false
 
@@ -544,7 +544,7 @@ Turn 32
 Asks from cheap to expensive:
 sell mkt 2000 0.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 200 27.8 false
 
 
@@ -553,7 +553,7 @@ Ready to add: buy lim 200 27.8 false
 Turn 33
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.8 false
 Ready to add: sell lim 400 27.2 false
 
@@ -564,7 +564,7 @@ Turn 34
 Asks from cheap to expensive:
 sell lim 400 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.8 false
 Ready to add: buy mkt 200 0.0 false
 
@@ -578,7 +578,7 @@ Turn 35
 Asks from cheap to expensive:
 sell lim 200 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 200 0.0 false
 Ready to add: sell lim 300 27.0 false
 
@@ -592,7 +592,7 @@ Turn 36
 Asks from cheap to expensive:
 sell lim 300 27.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 400 27.25 false
 
 
@@ -602,7 +602,7 @@ Turn 37
 Asks from cheap to expensive:
 sell lim 300 27.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.25 false
 Ready to add: buy lim 300 27.1 false
 
@@ -615,7 +615,7 @@ Ready to add: buy lim 300 27.1 false
 Turn 38
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 100 27.25 false
 buy lim 300 27.1 false
 Ready to add: sell mkt 700 0.0 false
@@ -627,7 +627,7 @@ Turn 39
 Asks from cheap to expensive:
 sell mkt 700 0.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 100 27.25 false
 buy lim 300 27.1 false
 Ready to add: sell lim 400 27.2 false
@@ -645,7 +645,7 @@ Turn 40
 Asks from cheap to expensive:
 sell lim 400 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 1000 0.0 false
 
 
@@ -655,7 +655,7 @@ Turn 41
 Asks from cheap to expensive:
 sell lim 400 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 1000 0.0 false
 Ready to add: sell mkt 300 0.0 false
 
@@ -669,7 +669,7 @@ Turn 42
 Asks from cheap to expensive:
 sell mkt 300 0.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 200 27.8 false
 
 
@@ -678,7 +678,7 @@ Ready to add: buy lim 200 27.8 false
 Turn 43
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.8 false
 Ready to add: sell lim 400 27.8 false
 
@@ -689,7 +689,7 @@ Turn 44
 Asks from cheap to expensive:
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.8 false
 Ready to add: buy mkt 200 0.0 false
 
@@ -703,7 +703,7 @@ Turn 45
 Asks from cheap to expensive:
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 200 0.0 false
 Ready to add: sell lim 400 27.75 false
 
@@ -717,7 +717,7 @@ Turn 46
 Asks from cheap to expensive:
 sell lim 400 27.75 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 800 0.0 false
 
 
@@ -727,7 +727,7 @@ Turn 47
 Asks from cheap to expensive:
 sell lim 400 27.75 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 800 0.0 false
 Ready to add: buy mkt 400 0.0 false
 
@@ -740,7 +740,7 @@ Ready to add: buy mkt 400 0.0 false
 Turn 48
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 400 0.0 false
 Ready to add: sell lim 800 27.2 false
 
@@ -751,7 +751,7 @@ Turn 49
 Asks from cheap to expensive:
 sell lim 800 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 500 0.0 false
 
 
@@ -761,7 +761,7 @@ Turn 50
 Asks from cheap to expensive:
 sell lim 800 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 500 0.0 false
 Ready to add: sell mkt 100 0.0 false
 
@@ -776,7 +776,7 @@ Asks from cheap to expensive:
 sell mkt 100 0.0 false
 sell lim 300 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 300 27.8 false
 
 
@@ -786,7 +786,7 @@ Turn 52
 Asks from cheap to expensive:
 sell lim 300 27.2 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.8 false
 Ready to add: sell lim 700 27.4 false
 
@@ -800,7 +800,7 @@ Turn 53
 Asks from cheap to expensive:
 sell lim 700 27.4 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 500 27.6 false
 
 
@@ -810,7 +810,7 @@ Turn 54
 Asks from cheap to expensive:
 sell lim 700 27.4 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 500 27.6 false
 Ready to add: sell lim 200 27.8 false
 
@@ -825,7 +825,7 @@ Asks from cheap to expensive:
 sell lim 200 27.4 false
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: sell mkt 100 0.0 false
 
 
@@ -837,7 +837,7 @@ sell mkt 100 0.0 false
 sell lim 200 27.4 false
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 200 27.2 false
 
 
@@ -848,7 +848,7 @@ Asks from cheap to expensive:
 sell lim 200 27.4 false
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.2 false
 Ready to add: buy lim 200 27.9 false
 
@@ -860,7 +860,7 @@ Asks from cheap to expensive:
 sell lim 200 27.4 false
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.9 false
 buy lim 200 27.2 false
 Ready to add: sell mkt 200 0.0 false
@@ -876,7 +876,7 @@ Asks from cheap to expensive:
 sell mkt 200 0.0 false
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.2 false
 Ready to add: sell mkt 100 0.0 false
 
@@ -891,7 +891,7 @@ Asks from cheap to expensive:
 sell mkt 100 0.0 false
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 100 0.0 false
 
 
@@ -901,7 +901,7 @@ Turn 61
 Asks from cheap to expensive:
 sell lim 200 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 100 0.0 false
 Ready to add: buy lim 200 27.8 false
 
@@ -915,7 +915,7 @@ Turn 62
 Asks from cheap to expensive:
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 200 27.8 false
 Ready to add: buy lim 400 27.2 false
 
@@ -928,7 +928,7 @@ Ready to add: buy lim 400 27.2 false
 Turn 63
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 100 27.8 false
 buy lim 400 27.2 false
 Ready to add: sell mkt 600 0.0 false
@@ -940,7 +940,7 @@ Turn 64
 Asks from cheap to expensive:
 sell mkt 600 0.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 100 27.8 false
 buy lim 400 27.2 false
 Ready to add: sell lim 400 27.8 false
@@ -958,7 +958,7 @@ Turn 65
 Asks from cheap to expensive:
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 300 27.2 false
 
 
@@ -968,7 +968,7 @@ Turn 66
 Asks from cheap to expensive:
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 Ready to add: sell lim 400 27.4 false
 
@@ -980,7 +980,7 @@ Asks from cheap to expensive:
 sell lim 400 27.4 false
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 Ready to add: sell lim 500 27.6 false
 
@@ -993,7 +993,7 @@ sell lim 400 27.4 false
 sell lim 500 27.6 false
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 Ready to add: buy mkt 900 0.0 false
 
@@ -1006,7 +1006,7 @@ sell lim 400 27.4 false
 sell lim 500 27.6 false
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 buy mkt 900 0.0 false
 Ready to add: buy mkt 400 0.0 false
@@ -1024,7 +1024,7 @@ Turn 70
 Asks from cheap to expensive:
 sell lim 400 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 buy mkt 400 0.0 false
 Ready to add: sell mkt 300 0.0 false
@@ -1039,7 +1039,7 @@ Turn 71
 Asks from cheap to expensive:
 sell mkt 300 0.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 Ready to add: sell lim 200 27.0 false
 
@@ -1053,7 +1053,7 @@ Turn 72
 Asks from cheap to expensive:
 sell lim 200 27.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 100 0.0 false
 
 
@@ -1063,7 +1063,7 @@ Turn 73
 Asks from cheap to expensive:
 sell lim 200 27.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 100 0.0 false
 Ready to add: sell lim 300 27.8 false
 
@@ -1078,7 +1078,7 @@ Asks from cheap to expensive:
 sell lim 100 27.0 false
 sell lim 300 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 300 0.0 false
 
 
@@ -1089,7 +1089,7 @@ Asks from cheap to expensive:
 sell lim 100 27.0 false
 sell lim 300 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 300 0.0 false
 Ready to add: sell lim 200 27.4 false
 
@@ -1107,7 +1107,7 @@ Asks from cheap to expensive:
 sell lim 200 27.4 false
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: sell lim 400 27.6 false
 
 
@@ -1119,7 +1119,7 @@ sell lim 200 27.4 false
 sell lim 400 27.6 false
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy lim 300 27.2 false
 
 
@@ -1131,7 +1131,7 @@ sell lim 200 27.4 false
 sell lim 400 27.6 false
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 Ready to add: sell mkt 300 0.0 false
 
@@ -1145,7 +1145,7 @@ sell lim 200 27.4 false
 sell lim 400 27.6 false
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.2 false
 Ready to add: buy mkt 600 0.0 false
 
@@ -1161,7 +1161,7 @@ sell lim 200 27.4 false
 sell lim 400 27.6 false
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 600 0.0 false
 Ready to add: sell mkt 5200 0.0 false
 
@@ -1179,7 +1179,7 @@ Asks from cheap to expensive:
 sell mkt 5200 0.0 false
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 Ready to add: buy mkt 300 0.0 false
 
 
@@ -1189,7 +1189,7 @@ Turn 82
 Asks from cheap to expensive:
 sell lim 100 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy mkt 300 0.0 false
 Ready to add: buy lim 2500 27.8 false
 
@@ -1202,7 +1202,7 @@ Ready to add: buy lim 2500 27.8 false
 Turn 83
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 2500 27.8 false
 Ready to add: sell lim 300 27.8 false
 
@@ -1213,7 +1213,7 @@ Turn 84
 Asks from cheap to expensive:
 sell lim 300 27.8 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 2500 27.8 false
 Ready to add: buy mkt 100 0.0 false
 
@@ -1226,7 +1226,7 @@ Ready to add: buy mkt 100 0.0 false
 Turn 85
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 2200 27.8 false
 buy mkt 100 0.0 false
 Ready to add: buy mkt 100 0.0 false
@@ -1237,7 +1237,7 @@ Ready to add: buy mkt 100 0.0 false
 Turn 86
 Asks from cheap to expensive:
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 2200 27.8 false
 buy mkt 100 0.0 false
 Ready to add: sell mkt 500 0.0 false
@@ -1249,7 +1249,7 @@ Turn 87
 Asks from cheap to expensive:
 sell mkt 500 0.0 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 2200 27.8 false
 Ready to add: sell lim 2000 27.6 false
 
@@ -1263,7 +1263,7 @@ Turn 88
 Asks from cheap to expensive:
 sell lim 2000 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 1700 27.8 false
 Ready to add: buy lim 500 27.4 false
 
@@ -1277,7 +1277,7 @@ Turn 89
 Asks from cheap to expensive:
 sell lim 300 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 500 27.4 false
 Ready to add: buy mkt 200 0.0 false
 
@@ -1288,7 +1288,7 @@ Turn 90
 Asks from cheap to expensive:
 sell lim 300 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 500 27.4 false
 buy mkt 200 0.0 false
 Ready to add: sell mkt 100 0.0 false
@@ -1304,7 +1304,7 @@ Asks from cheap to expensive:
 sell mkt 100 0.0 false
 sell lim 100 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 500 27.4 false
 Ready to add: sell lim 2000 27.6 false
 
@@ -1319,7 +1319,7 @@ Asks from cheap to expensive:
 sell lim 100 27.6 false
 sell lim 2000 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.4 false
 Ready to add: buy mkt 200 0.0 false
 
@@ -1331,7 +1331,7 @@ Asks from cheap to expensive:
 sell lim 100 27.6 false
 sell lim 2000 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.4 false
 buy mkt 200 0.0 false
 Ready to add: buy mkt 400 0.0 false
@@ -1349,7 +1349,7 @@ Turn 94
 Asks from cheap to expensive:
 sell lim 1900 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.4 false
 buy mkt 400 0.0 false
 Ready to add: sell mkt 100 0.0 false
@@ -1365,7 +1365,7 @@ Asks from cheap to expensive:
 sell mkt 100 0.0 false
 sell lim 1500 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 400 27.4 false
 Ready to add: sell lim 300 27.0 false
 
@@ -1380,7 +1380,7 @@ Asks from cheap to expensive:
 sell lim 300 27.0 false
 sell lim 1500 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 300 27.4 false
 Ready to add: buy lim 1500 28.0 false
 
@@ -1394,7 +1394,7 @@ Turn 97
 Asks from cheap to expensive:
 sell lim 1500 27.6 false
 
-Bids from oldest to newest:
+Bids from expensive to cheap:
 buy lim 1500 28.0 false
 ===============================
 Продано акций: 1500.0
