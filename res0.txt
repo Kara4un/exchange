@@ -74,8 +74,8 @@ Asks from cheap to expensive:
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 500 27.0 false
 buy lim 700 27.6 false
+buy lim 500 27.0 false
 Ready to add: sell lim 400 27.8 false
 
 
@@ -87,8 +87,8 @@ sell lim 400 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 500 27.0 false
 buy lim 700 27.6 false
+buy lim 500 27.0 false
 Ready to add: sell mkt 100 27.61 true
 
 
@@ -101,8 +101,8 @@ sell lim 400 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 500 27.0 false
 buy lim 700 27.6 false
+buy lim 500 27.0 false
 Ready to add: buy lim 300 27.5 false
 
 
@@ -115,9 +115,9 @@ sell lim 400 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 500 27.0 false
 buy lim 700 27.6 false
 buy lim 300 27.5 false
+buy lim 500 27.0 false
 Ready to add: sell mkt 700 0.0 false
 
 
@@ -131,9 +131,9 @@ sell lim 400 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 500 27.0 false
 buy lim 700 27.6 false
 buy lim 300 27.5 false
+buy lim 500 27.0 false
 Ready to add: buy lim 100 27.99 false
 
 
@@ -149,18 +149,18 @@ sell lim 400 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 500 27.0 false
-buy lim 300 27.5 false
 buy lim 100 27.99 false
+buy lim 300 27.5 false
+buy lim 500 27.0 false
 Ready to add: sell lim 200 27.75 false
 
 
 ===============================
 Продано акций: 100.0
-Продано на сумму: 2780.0
+Продано на сумму: 2750.0
 --------------------
 Продано акций: 100.0
-Продано на сумму: 2700.0
+Продано на сумму: 2780.0
 --------------------
 
 Turn 10
@@ -170,8 +170,8 @@ sell lim 300 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 400 27.0 false
-buy lim 300 27.5 false
+buy lim 200 27.5 false
+buy lim 500 27.0 false
 Ready to add: sell mkt 200 0.0 false
 
 
@@ -185,8 +185,8 @@ sell lim 300 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 400 27.0 false
-buy lim 300 27.5 false
+buy lim 200 27.5 false
+buy lim 500 27.0 false
 Ready to add: buy lim 200 27.6 false
 
 
@@ -202,9 +202,8 @@ sell lim 300 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 400 27.0 false
-buy lim 100 27.5 false
 buy lim 200 27.6 false
+buy lim 500 27.0 false
 Ready to add: buy lim 400 27.3 false
 
 
@@ -217,10 +216,9 @@ sell lim 300 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 400 27.0 false
-buy lim 100 27.5 false
 buy lim 200 27.6 false
 buy lim 400 27.3 false
+buy lim 500 27.0 false
 Ready to add: sell mkt 800 0.0 false
 
 
@@ -234,10 +232,9 @@ sell lim 300 27.8 false
 sell lim 201 28.0 false
 
 Bids from oldest to newest:
-buy lim 400 27.0 false
-buy lim 100 27.5 false
 buy lim 200 27.6 false
 buy lim 400 27.3 false
+buy lim 500 27.0 false
 Ready to add: sell lim 200 27.4 false
 
 
@@ -245,14 +242,11 @@ Ready to add: sell lim 200 27.4 false
 Продано акций: 200.0
 Продано на сумму: 5520.0
 --------------------
-Продано акций: 100.0
-Продано на сумму: 2750.0
---------------------
 Продано акций: 400.0
 Продано на сумму: 10920.0
 --------------------
-Продано акций: 100.0
-Продано на сумму: 2700.0
+Продано акций: 200.0
+Продано на сумму: 5400.0
 --------------------
 
 Turn 15
@@ -867,8 +861,8 @@ sell lim 200 27.4 false
 sell lim 200 27.8 false
 
 Bids from oldest to newest:
-buy lim 200 27.2 false
 buy lim 200 27.9 false
+buy lim 200 27.2 false
 Ready to add: sell mkt 200 0.0 false
 
 
